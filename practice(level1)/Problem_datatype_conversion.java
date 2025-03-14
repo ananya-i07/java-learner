@@ -5,7 +5,7 @@ import java.util.Scanner;
  * by decrypt it
  */
 
-public class ProblemD1 {
+public class Problem_datatype_conversion {
 
 public static void main(String[] args) {
      Scanner s = new Scanner(System.in);
